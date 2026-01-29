@@ -1,4 +1,5 @@
 Climate Change Impact on Coastal Ecosystems in the Niger Delta Using ML-Based Models
+
 📌 Overview
 
 This project applies machine learning to assess the impact of climate change on coastal ecosystems in the Niger Delta using realistic synthetic environmental and oceanographic data. The model predicts ecosystem health under varying climate stressors to support environmental monitoring and policy decisions.
